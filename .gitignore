@@ -83,3 +83,4 @@ wandb/
 *.egg-info/
 training/
 preprocessing/
+.conda/
